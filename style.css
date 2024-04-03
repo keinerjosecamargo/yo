@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+
+body{
+    background-color: #fcbbbb;
+}
+header{
+   
+    background-color: #fcbbbb;
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}
+
+ main{
+    padding: 20px;
+    
+ }
+
+
+article{
+    padding: 20px;
+   border: solid 3px;
+}
+section{
+    color: rgb(228, 69, 69);
+}
+
+
+
